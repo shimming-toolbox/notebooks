@@ -2,3 +2,4 @@ git clone https://github.com/shimming-toolbox/shimming-toolbox-py
 cd shimming-toolbox-py
 git checkout mb/sim
 pip install -e .
+cd ..
